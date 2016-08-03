@@ -60,6 +60,15 @@
   </channels>
  
  
+ <channel>
+       <name>[COLOR red]PELICULAS ESPAÑOLAS      [/COLOR][COLOR yellow] (cine de barrio)[/COLOR]                                                                   [COLOR yellow]         (cine de barrio) [/COLOR][COLOR red] PELICULAS ESPAÑOLAS[/COLOR]</name>
+  <thumbnail>https://s32.postimg.org/6faqzo30l/icon.png</thumbnail>
+<fanart>http://images.myipadretinawallpaper.com/Gallery/15_Entertainment/My-iPad-Retina-Wallpaper-Entertainment(149).jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com/raw/Nqv1tXS2</externallink>
+</channel>
+  </channels>
+ 
 
 
 
@@ -69,7 +78,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] policias[/COLOR]</name>
+       <name>[COLOR red]POLICIAS      [/COLOR][COLOR yellow] en el corazon de la calle[/COLOR]                                                                   [COLOR yellow]         en el corazon de la calle [/COLOR][COLOR red] POLICIAS[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
