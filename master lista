@@ -62,8 +62,9 @@
  
  <channel>
        <name>[COLOR red]PELICULAS ESPAÑOLAS      [/COLOR][COLOR yellow] (cine de barrio)[/COLOR]                                                                   [COLOR yellow]         (cine de barrio) [/COLOR][COLOR red] PELICULAS ESPAÑOLAS[/COLOR]</name>
-  <thumbnail>https://s32.postimg.org/6faqzo30l/icon.png</thumbnail>
-<fanart>http://images.myipadretinawallpaper.com/Gallery/15_Entertainment/My-iPad-Retina-Wallpaper-Entertainment(149).jpg</fanart>
+  <thumbnail>http://www.teleypunto.es/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/6387.png&w=600&h=320&zc=1&ft=jpg</thumbnail> (AQUI EL LOGO O FRONTAL DE LA IMAGEN) 
+  </thumbnail>
+<fanart>http://blogs.monografias.com/el-buenos-aires-que-se-fue/files/2012/01/cine-de-barrio4.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com/raw/Nqv1tXS2</externallink>
 </channel>
@@ -79,8 +80,8 @@
  
 <channel>
        <name>[COLOR red]POLICIAS      [/COLOR][COLOR yellow] en el corazon de la calle[/COLOR]                                                                   [COLOR yellow]         en el corazon de la calle [/COLOR][COLOR red] POLICIAS[/COLOR]</name>
-  <thumbnail>http://www.opiniones.info/images/uploads/24-policias-en-el-corazon-de-la-calle-2000.jpg</thumbnail>
-<fanart>http://http-s.ws/ysk/img/data/56cef355e982943813bc83255263d4f1-size-145x205-a.jpg</fanart>
+  <thumbnail>http://http-s.ws/ysk/img/data/56cef355e982943813bc83255263d4f1-size-145x205-a.jpg</thumbnail>
+<fanart>http://www.opiniones.info/images/uploads/24-policias-en-el-corazon-de-la-calle-2000.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com/raw/4Ztfap8R</externallink>
 </channel>
