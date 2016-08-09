@@ -24,7 +24,7 @@ erver:"IPTV [COLOR red] 21[/COLOR]" URL=""; regex"ES:"
 erver:"IPTV [COLOR red] 22[/COLOR]" URL=""; regex"Es-"
 erver:"IPTV [COLOR red] 23[/COLOR]" URL=""; regex"ES:"
 erver:"IPTV [COLOR red] 24[/COLOR]" URL=""; regex"ES:"
-Server:"IPTV[COLOR lightblue] movistar [/COLOR][COLOR red]estable[/COLOR]" URL="http://149.202.209.167:8000/get.php?username=tvparanosotros@gmail.com&password=@tvparanosotros&type=m3u"; regex""
+Server:"IPTV[COLOR blue] movistar [/COLOR][COLOR red]estable[/COLOR]" URL="http://149.202.209.167:8000/get.php?username=tvparanosotros@gmail.com&password=@tvparanosotros&type=m3u"; regex""
 
 
 
