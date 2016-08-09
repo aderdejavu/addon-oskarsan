@@ -1,12 +1,12 @@
 
 <item>
-<title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR cyan]IPTV[/COLOR] [COLOR red]ES[/COLOR][COLOR yellow]PA[/COLOR][COLOR red]ÑA[/COLOR] **</title>
+<title>[COLOR blue]servidor OSKARSAN[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
- <title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR lightblue]Servidor: [/COLOR][COLOR lightgreen] [makelist2.param1][/COLOR] **</title>
+ <title>[COLOR blue]oskarsan [COLOR lightblue]Servidor: [/COLOR][COLOR lightgreen] [makelist2.param1][/COLOR]</title>
  <link>$doregex[makelist]</link>
  <thumbnail>http://i.imgur.com/x9GX15w.jpg</thumbnail>
  <fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
@@ -19,7 +19,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR skyblue][makelist.param1][/COLOR] **</title>
+ <title>[COLOR blue]oskarsan [COLOR skyblue][makelist.param1][/COLOR]</title>
  <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]Catoal [/COLOR] [makelist.param1]</link>
  <thumbnail></thumbnail>
  ]]></listrepeat>
