@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR blue]servidor [/COLOR][COLOR yellow]OSKARSAN[/COLOR]</title>
+<title>[COLOR blue]servidor IPTV [/COLOR][COLOR yellow]OSKARSAN[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
