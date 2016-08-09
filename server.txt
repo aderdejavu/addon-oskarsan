@@ -1,0 +1,1 @@
+Server:"IPTV España[COLOR lime] 18[/COLOR]" URL="http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u"; regex"ES:"
