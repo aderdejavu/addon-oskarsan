@@ -9,7 +9,7 @@
  <title>[COLOR blue]oskarsan [COLOR lightblue]Servidor: [/COLOR][COLOR lightgreen] [makelist2.param1][/COLOR]</title>
  <link>$doregex[makelist]</link>
  <thumbnail>https://s32.postimg.org/6faqzo30l/icon.png</thumbnail>
- <fanart>https://s32.postimg.org/6faqzo30l/icon.png</fanart>
+ <fanart>https://s10.postimg.org/3t01hc7a1/image.png</fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
 <page>https://raw.githubusercontent.com/aderdejavu/addon-oskarsan/master/server.txt</page>
