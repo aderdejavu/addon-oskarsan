@@ -1,31 +1,4 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @aderdejavu
-
-0
-0
-
-    1
-
-aderdejavu/lista2 forked from Carlesto/lista2
-Code
-Pull requests 0
-Wiki
-Pulse
-Graphs
-Settings
-lista2/server.txt
-23df01b 2 days ago
-@Carlesto Carlesto 7
-@Carlesto
-@catoalkodi
-40 lines (27 sloc) 3.28 KB
 
 
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] Catoal[/COLOR]" URL=""; regex""
@@ -65,7 +38,4 @@ Server:"IPTV España[COLOR lime] Deportes[/COLOR]" URL="http://149.202.209.167:8
 
 
 
-    Contact GitHub API Training Shop Blog About 
-
-    © 2016 GitHub, Inc. Terms Privacy Security Status Help 
 
