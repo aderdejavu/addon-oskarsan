@@ -40,40 +40,7 @@
 </channel>
   </channels>
  
- 
-
-
- 
-
-
- 
- 
-<channels>
- 
-<channel>
-       <name>[COLOR red]PELICULAS      [/COLOR][COLOR yellow] de todo HD[/COLOR]                                                                   [COLOR yellow]         de todo HD [/COLOR][COLOR red] PELICULAS[/COLOR]</name>
-  <thumbnail>http://2.bp.blogspot.com/-8So5Rwn9LPk/Vi_svL-fB9I/AAAAAAAAH8A/Qe60NuEQRzs/s1600/ZmwOx6Q.png</thumbnail>
-<fanart>http://www.fondobook.com/wp-content/uploads/2011/11/e_hd169_The-Adventures-of-Tintin-wallpapers1-4.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com/raw/R2ZaCxcQ</externallink>
-</channel>
-  </channels>
- 
- 
- <channel>
-       <name>[COLOR red]PELICULAS ESPAÑOLAS      [/COLOR][COLOR yellow] (cine de barrio)[/COLOR]                                                                   [COLOR yellow]         (cine de barrio) [/COLOR][COLOR red] PELICULAS ESPAÑOLAS[/COLOR]</name>
-  <thumbnail>http://www.teleypunto.es/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/6387.png&w=600&h=320&zc=1&ft=jpg</thumbnail> (AQUI EL LOGO O FRONTAL DE LA IMAGEN) 
-  </thumbnail>
-<fanart>http://blogs.monografias.com/el-buenos-aires-que-se-fue/files/2012/01/cine-de-barrio4.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com/raw/Nqv1tXS2</externallink>
-</channel>
-  </channels>
- 
-
-
-
-<channels>
+ <channels>
  
 
 <channel>
@@ -106,8 +73,20 @@
  
 <channel>
       <name>[COLOR red]TELEVISION EN DIRECTO      [/COLOR][COLOR yellow] oskarsan[/COLOR]                                                                   [COLOR yellow]         oskarsan [/COLOR][COLOR red] TELEVISION EN DIRECTO[/COLOR]</name>
-  <thumbnail>http://digitea.es/wp-content/uploads/2016/02/people-watching-tv.jpg</thumbnail>
-<fanart>http://www.trendytv.es/wp-content/uploads/2015/04/samsung-smart-tv.jpg</fanart>
+  <thumbnail>https://s3.postimg.org/7iqhj8hb7/IPTV_links_the_United_States_of_America.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/A5PLZ8JznE8/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com/raw/nPDSjL3p</externallink>
+</channel>
+  </channels>
+  
+  
+   <channels>
+ 
+<channel>
+      <name>[COLOR red]CARRERAS FORMULA 1      [/COLOR][COLOR yellow] oskarsan[/COLOR]                                                                   [COLOR yellow]         oskarsan [/COLOR][COLOR red] TELEVISION EN DIRECTO[/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/574499541212270592/FpXDipiC.jpeg</thumbnail>
+<fanart>http://www.zamparuedas.com/wp-content/uploads/2008/11/red-bull-racing-wallpaper.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com/raw/nPDSjL3p</externallink>
 </channel>
