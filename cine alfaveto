@@ -26,15 +26,41 @@
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
+
+<item>
+<title>[COLOR red]*osk*  [/COLOR][COLOR white]  Bb  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]*osk*  [/COLOR][COLOR lime]  [COLOR lime] [makelist.param3][/COLOR]  [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://images4.fanpop.com/image/photos/22100000/The-letter-B-the-alphabet-22186966-2560-2560.jpg</thumbnail>
+        <fanart>http://pre14.deviantart.net/d041/th/pre/i/2015/151/0/1/hobbit_fan_art_by_sodaopera-d8vjsa0.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/pupurb/cine-b-27852/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pupurb/cine-a-27851/list,1,2</referer>
+<referer>http://diskokosmiko.mx/pupurb/cine-b-27852/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://brushez.com/wp-content/uploads/2013/01/A_fire_PSD_by_freemaniraq.jpg</thumbnail>
+<thumbnail>http://images4.fanpop.com/image/photos/22100000/The-letter-B-the-alphabet-22186966-2560-2560.jpg</thumbnail>
 <fanart>http://pre14.deviantart.net/d041/th/pre/i/2015/151/0/1/hobbit_fan_art_by_sodaopera-d8vjsa0.jpg</fanart>
 </item>
