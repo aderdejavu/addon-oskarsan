@@ -9,7 +9,7 @@
   <listrepeat><![CDATA[
         <title>[COLOR red]*osk*  [/COLOR][COLOR lime]  [COLOR lime] [makelist.param3][/COLOR]  [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://brushez.com/wp-content/uploads/2013/01/A_fire_PSD_by_freemaniraq.jpg</thumbnail>
+        <thumbnail>http://images4.fanpop.com/image/photos/22100000/The-letter-B-the-alphabet-22186966-2560-2560.jpg</thumbnail>
         <fanart>http://pre14.deviantart.net/d041/th/pre/i/2015/151/0/1/hobbit_fan_art_by_sodaopera-d8vjsa0.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
