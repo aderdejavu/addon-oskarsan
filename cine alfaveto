@@ -1,6 +1,5 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <item>
 <title>[COLOR red]*osk*  [/COLOR][COLOR white]  Aa  [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -27,10 +26,18 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/pupurb/cine-a-27851/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://brushez.com/wp-content/uploads/2013/01/A_fire_PSD_by_freemaniraq.jpg</thumbnail>
 <fanart>http://pre14.deviantart.net/d041/th/pre/i/2015/151/0/1/hobbit_fan_art_by_sodaopera-d8vjsa0.jpg</fanart>
 </item>
-<item>
+
 
 
 <item>
